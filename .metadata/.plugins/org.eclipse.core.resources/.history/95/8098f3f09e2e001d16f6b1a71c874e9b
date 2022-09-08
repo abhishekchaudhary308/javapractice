@@ -1,0 +1,14 @@
+package assignment3;
+
+public class UtilityCar extends Carcost4{
+    public Boolean rearCoolingVents;
+    
+    public UtilityCar() {
+        super();
+    }
+    double calculateDriveCost(double km)
+    {
+        double cost = km * 18;
+        return cost;
+    }
+}

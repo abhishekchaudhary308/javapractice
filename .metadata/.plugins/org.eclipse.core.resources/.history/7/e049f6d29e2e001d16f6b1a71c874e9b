@@ -1,0 +1,17 @@
+package assignment3;
+
+public class HatchBack extends Carcost4{
+	    public Boolean powerWindowsEnabled;
+	    public Boolean automaticGear;
+	    
+	    public HatchBack()
+	    {
+	        super();
+	    }
+	    double calculateDriveCost(double km)
+	    {
+	        double cost = km * 10;
+	        return cost;
+	    }
+
+	}

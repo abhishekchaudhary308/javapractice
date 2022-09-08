@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;javabasic.hello&apos; to &apos;Hello&apos;&#x0D;&#x0A;- Original project: &apos;javabasic&apos;&#x0D;&#x0A;- Original element: &apos;javabasic.hello&apos;&#x0D;&#x0A;- Renamed element: &apos;javabasic.Hello&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;hello&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;javabasic{hello.java[hello" matchStrategy="1" name="Hello" qualified="false" references="true" similarDeclarations="false" stamp="1659673784162" textual="false" version="1.0"/>
+</session>
