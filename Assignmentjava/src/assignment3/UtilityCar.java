@@ -22,7 +22,6 @@ public class UtilityCar extends Car {
 
 	@Override
 	public double calculateDriveCost(double km) {
-		// TODO Auto-generated method stub
 		
 		return 18*km;
 	}

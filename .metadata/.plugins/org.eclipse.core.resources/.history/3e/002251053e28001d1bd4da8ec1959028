@@ -1,8 +1,0 @@
-package classmorning;
-
-public class CheckNum {
-String s1= "ABHISHEK";
-public void display() {
- System.out.println(s1.charAt(0) - 14);
-}
-}
